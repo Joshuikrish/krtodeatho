@@ -1,4 +1,4 @@
-# Hi, I'm Krishna shrestha a.k.a krto Deatho! 👋
+# Hi, I'm Krishna shrestha a.k.a Krto Deatho! 👋
 
 ## 🚀 About Me
 I'm a Frontend developer, seo expert and content writer.

@@ -14,7 +14,7 @@ Javascript, HTML, CSS, Vuejs, PHP, Python
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on codecater
+👩‍💻 I'm currently free if you want to hire me I am available
 
 🧠 I'm currently learning vue js
 

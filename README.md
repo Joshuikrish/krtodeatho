@@ -1,7 +1,7 @@
 # Hi, I'm Krishna shrestha a.k.a krto Deatho! 👋
 
 ## 🚀 About Me
-I'm a Frontend developer and seo expert along with content writing.
+I'm a Frontend developer, seo expert and content writer.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krtodeatho.github.io/https-krtodeatho.github.io-/)

@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 I'm a Frontend developer, seo expert and content writer.
-<a href="https://app.daily.dev/krtodeatho"><img src="https://api.daily.dev/devcards/8b582af3e3184b3e926d1845f4ae03c6.png?r=66q" width="400" alt="krishna shrestha's Dev Card"/></a>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krtodeatho.github.io/k/)
